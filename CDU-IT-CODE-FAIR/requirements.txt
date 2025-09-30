@@ -1,0 +1,28 @@
+# Core
+pandas
+numpy
+scikit-learn
+scipy
+
+# Google APIs
+googlemaps
+google-api-python-client
+python-dotenv
+
+# Web crawling & parsing
+requests
+trafilatura
+feedparser
+
+# Utility / Retry
+tenacity
+
+# Language & text cleaning
+langdetect
+
+# Visualization (for reco / plots)
+matplotlib
+seaborn
+
+# Optional (better progress bars, debugging)
+tqdm

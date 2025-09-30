@@ -1,0 +1,13 @@
+topic_label,n,pos_share,neg_share,recent_share,priority,suggested_actions
+"links, tours, help, book, you, in this",9,1.0,0.0,0.0,-1.151292546497023,[]
+"park, national, national park, kakadu, kakadu national, the",39,1.0,0.0,0.02564102564102564,-1.891733053391762,['Parking: overflow wayfinding; clear signage; live availability via QR/site.']
+"guys, great, episode, great episode, another great, keep",44,0.9772727272727273,0.0,0.11363636363636363,-2.0714457298414417,['Heat: add shade sails/misters & water bubblers; promote cooler visit hours.']
+"it, to, you, is, not, the",88,0.7386363636363636,0.2159090909090909,0.8068181818181818,-2.1196982443324424,"['Service: staff & cultural-safety training; surge roster in peak season.', 'Amenities: more cleaning cycles/bins; stock toilets; quick-issue QR reporting.', 'Queues: timed entry & surge staffing; marked lines; live crowd info via QR.']"
+"the, springs, of, katherine, alice, alice springs",55,1.0,0.0,0.05454545454545454,-2.122458164205806,[]
+"falls, the, walk, creek, trail, you",43,1.0,0.0,0.16279069767441862,-2.200110252278059,[]
+"the, season, darwin, in, wet, the wet",42,0.9523809523809523,0.0,0.2619047619047619,-2.2601315887954514,"['Parking: overflow wayfinding; clear signage; live availability via QR/site.', 'Ops comms: publish closures/track conditions (wet season) + alternatives via QR.', 'Marine/croc safety: clearer stinger/croc signage; season-specific alerts; repellents info.']"
+"staff, store, friendly, the, friendly staff, and",59,0.864406779661017,0.06779661016949153,0.847457627118644,-3.0128306797276383,"['Service: staff & cultural-safety training; surge roster in peak season.', 'Food/EFTPOS: diversify cuisines; shaded dining; ensure reliable EFTPOS; manage cash-only stalls.', 'Amenities: more cleaning cycles/bins; stock toilets; quick-issue QR reporting.']"
+"we, were, the, was, and, had",74,0.8513513513513513,0.12162162162162163,0.9459459459459459,-3.065448098142654,"['Amenities: more cleaning cycles/bins; stock toilets; quick-issue QR reporting.', 'Heat: add shade sails/misters & water bubblers; promote cooler visit hours.', 'Wayfinding: onsite maps & multilingual signs; QR with live status/closures.']"
+"see, to see, to, the, art, see the",47,0.9787234042553191,0.0,0.723404255319149,-3.264847208384518,['Heat: add shade sails/misters & water bubblers; promote cooler visit hours.']
+"and, place, for, there, the, kids",65,0.9846153846153847,0.0,0.7538461538461538,-3.6174817748905084,['Ops comms: publish closures/track conditions (wet season) + alternatives via QR.']
+"was, the, tour, and, highly, he",71,0.9859154929577465,0.014084507042253521,0.9436619718309859,-4.0391206888782865,[]
